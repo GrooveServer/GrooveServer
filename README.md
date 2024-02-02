@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GrooveServer
 - 👀 I’m interested in Java and Python.
 - 💞️ I’m looking to collaborate on Octoprint Projects.
-- 📫 Reach me by email at level9wizard@outlook.com
+- 📫 Reach me by email at itsaunixsystem@outlook.com
 
 <!---
 GrooveServer/GrooveServer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
